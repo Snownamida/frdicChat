@@ -50,7 +50,7 @@ export default function App() {
             type: "text",
             title: message.ip,
             text: message.text,
-            dateString: message.dateString,
+            date: new Date(message.dateString),
           }))}
       />
       <div
