@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/frdicChat/static/css/main.19d8ccde.css",
-    "main.js": "/frdicChat/static/js/main.92a2eb3e.js",
+    "main.css": "/frdicChat/static/css/main.ccec8cd5.css",
+    "main.js": "/frdicChat/static/js/main.e0e801b3.js",
     "static/js/453.7ae63cfa.chunk.js": "/frdicChat/static/js/453.7ae63cfa.chunk.js",
     "index.html": "/frdicChat/index.html",
-    "main.19d8ccde.css.map": "/frdicChat/static/css/main.19d8ccde.css.map",
-    "main.92a2eb3e.js.map": "/frdicChat/static/js/main.92a2eb3e.js.map",
+    "main.ccec8cd5.css.map": "/frdicChat/static/css/main.ccec8cd5.css.map",
+    "main.e0e801b3.js.map": "/frdicChat/static/js/main.e0e801b3.js.map",
     "453.7ae63cfa.chunk.js.map": "/frdicChat/static/js/453.7ae63cfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19d8ccde.css",
-    "static/js/main.92a2eb3e.js"
+    "static/css/main.ccec8cd5.css",
+    "static/js/main.e0e801b3.js"
   ]
 }
